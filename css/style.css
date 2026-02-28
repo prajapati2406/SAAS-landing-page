@@ -23,3 +23,24 @@ ul{
 img{
     max-width: 100%;
 }
+
+/*Navbar*/
+.navbar{
+    background: #fff;
+    padding: 20px;
+}
+
+.navbar .countainer
+  display: flex;
+/*Utility Classes */
+.countainer {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.countainer-sm {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
