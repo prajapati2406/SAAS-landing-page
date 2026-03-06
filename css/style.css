@@ -30,8 +30,9 @@ img{
     padding: 20px;
 }
 
-.navbar .countainer
-  display: flex;
+.navbar.countainer {
+        display: flex;
+}
 /*Utility Classes */
 .countainer {
     max-width: 1100px;
