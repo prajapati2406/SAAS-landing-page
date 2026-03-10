@@ -78,5 +78,18 @@ img{
     background: var(--light--color);
     color: #333;
     font-weight: 600;
-    transition: 0.3s;
+    text-decoration: none;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    opacity: 0.8;
+}
+
+.btn-primary{
+    background: var(--primary-color);
+    color: #fff;
 }
